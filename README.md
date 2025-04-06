@@ -5,4 +5,4 @@
 
 <h2>My languages:</h2>
 
-<code src="https://cdn-icons-png.flaticon.com/128/888/888859.png" width="50px"></code>
+<code><img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" width="50px"></code>
