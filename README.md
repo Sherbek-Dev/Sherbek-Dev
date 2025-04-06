@@ -2,3 +2,7 @@
 
 <h2>  I am currently a learner and will be sharing practical projects along the way on github!</h2> 
 <img src="https://media4.giphy.com/media/Yjq7OWdyjLUkJ5tUOV/giphy.webp?cid=ecf05e47dlsdc10wnmpozrgrb46obfin3ktzpj7h9gea5y2i&ep=v1_gifs_search&rid=giphy.webp&ct=g" width = "40px">
+
+<h2>My languages:</h2>
+
+<code src="https://cdn-icons-png.flaticon.com/128/888/888859.png" width="50px"></code>
