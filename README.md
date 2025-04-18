@@ -5,4 +5,4 @@
 
 <h2>My languages:</h2>
 
-<code><img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" width="50px" height="50px"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50px" height="50px"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50px" height="50px"></code>
+<code><img src="(https://cdn-icons-png.flaticon.com/128/888/888859.png" width="50px" height="50px"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50px" height="50px"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50px" height="50px"></code>
