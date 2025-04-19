@@ -5,4 +5,4 @@ Follow for cookie <img src="[(https://media4.giphy.com/media/Yjq7OWdyjLUkJ5tUOV/
 
 <h2>My languages:</h2>
 
- <img src="https://cdn-icons-gif.flaticon.com/17905/17905439.gif" width="50px" height="50px"><img src="[https://cdn-icons-png.flaticon.com/128/5968/5968292.png](https://cdn-icons-png.flaticon.com/128/9695/9695720.png)" width="50px" height="50px">
+ <img src="https://cdn-icons-gif.flaticon.com/17905/17905439.gif" width="50px" height="50px"><img src="[[https://cdn-icons-png.flaticon.com/128/5968/5968292.png](https://cdn-icons-png.flaticon.com/128/9695/9695720.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOYhwZ130FPw3X5QxCN4-UkEk2oXOJmyVz1w&s)" width="50px" height="50px">
